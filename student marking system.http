@@ -1,0 +1,6 @@
+@student_marking_system_HostAddress = http://localhost:5179
+
+GET {{student_marking_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
